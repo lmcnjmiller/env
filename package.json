@@ -1,1 +1,13 @@
-
+{
+  "name": "component-empty",
+  "description": "Empties dom elements, arrays and array-like objects",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "component": {
+    "scripts": {
+      "empty/index.js": "index.js"
+    }
+  }
+}
